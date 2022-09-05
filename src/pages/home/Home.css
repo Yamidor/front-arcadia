@@ -1,0 +1,18 @@
+a{
+    text-decoration: none;
+}
+.logo-menu{
+    width: 11rem;
+    height: 10rem;
+}
+.article-menu{
+    width: 14rem;
+    height: 14rem;
+    border: 0.1rem solid #0EAD1A;
+    padding: 1rem;
+    border-radius: 1rem
+}
+.article-menu h2{
+    color: #092FEF;
+    text-align: center
+}
